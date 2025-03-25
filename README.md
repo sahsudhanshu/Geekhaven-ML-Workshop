@@ -2,7 +2,7 @@
 
 #  Project Setup Guide  
 
-installation video: https://youtu.be/fDZAizOsmZg?feature=shared
+python installation video: https://youtu.be/fDZAizOsmZg?feature=shared
 
 ##  Prerequisites  
 Before running this project, ensure you have the following installed:  
